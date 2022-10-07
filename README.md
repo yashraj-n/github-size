@@ -3,7 +3,6 @@
 	Github-Size
 </h1>
 <p align="center">A Simple Lightweight Tool to check size of any Github Repository</p>
-![npm bundle size](https://img.shields.io/bundlephobia/min/github-size)
 
 ## ⚡️ Quick start
 Install the CLI using npm or yarn
