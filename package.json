@@ -1,0 +1,15 @@
+{
+  "name": "github-size",
+  "version": "1.0.0",
+  "description": "A Simple Lightweight Tool to check size of any Github Repository",
+  "main": "index.js",
+  "author": "Yashraj Narke",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.1.0",
+    "filesize": "^10.0.5"
+  },
+  "bin":{
+    "github-size": "index.js"
+  }
+}
